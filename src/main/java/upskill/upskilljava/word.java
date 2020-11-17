@@ -12,7 +12,8 @@ import java.util.List;
  *
  * @author prp
  */
-public class curso {
+public class Word extends curso {
+    
     private String nome;
     private int numeroFormandos;
 
@@ -27,7 +28,7 @@ public class curso {
     }
 
     private int DefNumFormandos(int num){
-        if (num<0) 
+        if num<0 
             return 0;
         else
             return num;
