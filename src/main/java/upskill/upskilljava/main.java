@@ -26,24 +26,17 @@ public class main {
                 "João Iglesias",
                 "Helder Ferreira",
                 "João Raposo",
+
             }, 
             {  
                 "José Fonseca",
-<<<<<<< HEAD
+                "Daniel Junior", 
                 "Paulo Lima",
-=======
-<<<<<<< HEAD
-                "Vânia Figueira",
-=======
-                "Daniel Junior",
->>>>>>> 698df9a7748b9aff6ec6c57d6b37a34db9df7eb5
->>>>>>> 002b1cd60094e440b83d625ac2de4814f35ca866
-                "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome", 
+                "Vania Figueira",
             },
             {  
-                "Diana Ferreira Matos",
-                "Marco Pereira",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome", 
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },            
@@ -55,7 +48,7 @@ public class main {
             },            
             {  
                 "Coloque aqui o seu nome",
-                "Bruno Filipe Feição Cardoso Barbosa",
+                "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },            
@@ -64,11 +57,6 @@ public class main {
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
-            },            
-            {  
-                "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },            
             {  
@@ -81,7 +69,13 @@ public class main {
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
-                "Fernando Crista", 
+                "Coloque aqui o seu nome", 
+            },            
+            {  
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome", 
             }
         };
         
