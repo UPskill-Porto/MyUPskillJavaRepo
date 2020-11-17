@@ -36,6 +36,36 @@ public class main {
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
+                "Andrea Galambos", 
+            },            
+            {  
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome", 
+            },            
+            {  
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome", 
+            },            
+            {  
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome", 
+            },            
+            {  
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome", 
+            },            
+            {  
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },            
             {  

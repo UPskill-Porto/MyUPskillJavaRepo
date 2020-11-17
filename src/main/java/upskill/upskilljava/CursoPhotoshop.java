@@ -7,12 +7,8 @@ package upskill.upskilljava;
 
 /**
  *
- * @author rubenpedrosa1
+ * @author utilizador
  */
-public class CursodeDesenvolvimentodeAplicacoesWeb extends curso {
+public class CursoPhotoshop {
     
-    public CursodeDesenvolvimentodeAplicacoesWeb(String n, int num) {
-        super(n, num);
-    }
-   
 }

@@ -7,12 +7,8 @@ package upskill.upskilljava;
 
 /**
  *
- * @author rubenpedrosa1
+ * @author victo
  */
-public class CursodeDesenvolvimentodeAplicacoesWeb extends curso {
+public class CursoDeProgramaçãoOrientadaAobjetos {
     
-    public CursodeDesenvolvimentodeAplicacoesWeb(String n, int num) {
-        super(n, num);
-    }
-   
 }

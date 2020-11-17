@@ -5,14 +5,14 @@
  */
 package upskill.upskilljava;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
- * @author rubenpedrosa1
+ * @author prp
  */
-public class CursodeDesenvolvimentodeAplicacoesWeb extends curso {
+public class Word extends curso {
+
     
-    public CursodeDesenvolvimentodeAplicacoesWeb(String n, int num) {
-        super(n, num);
-    }
-   
 }
