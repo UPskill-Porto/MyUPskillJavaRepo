@@ -36,10 +36,18 @@ public class main {
 
             },
             {  
+<<<<<<< HEAD
+	        "Diana Ferreira Matos",
+                "Marco Pereira",
+                "Ana Catarina Hristoff",
+                "Coloque aqui o seu nome", 
+                
+=======
                 "Diana Ferreira Matos",
                 "Coloque aqui o seu nome", 
                 "Coloque aqui o seu nome",
                 "Andrea Galambos", 
+>>>>>>> ddd53b71fffcd43d33db6771e0136566e23d3384
             },            
             {  
                 "Coloque aqui o seu nome",
