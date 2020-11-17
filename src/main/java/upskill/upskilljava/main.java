@@ -38,7 +38,7 @@ public class main {
 	        "Diana Ferreira Matos",
                 "Marco Pereira",
                 "Ana Catarina Hristoff",
-                "Coloque aqui o seu nome"
+                "Amilcar Cerqueira"
                 
             },
             {
@@ -55,7 +55,7 @@ public class main {
             },            
             {
                 "Marco Pereira",
-                "Amilcar Cerqueira",
+                "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
                 "Coloque aqui o seu nome"
             },            
