@@ -5,14 +5,13 @@
  */
 package upskill.upskilljava;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  *
- * @author prp
+ * @author José Fonseca
  */
-public class Word extends curso {
-
+public class cursoDeLinux extends curso {
     
+    public cursoDeLinux(){
+        super(String n, int num);
+    }
 }

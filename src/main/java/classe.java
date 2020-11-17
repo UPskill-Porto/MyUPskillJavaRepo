@@ -3,16 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package upskill.upskilljava;
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  *
- * @author prp
+ * @author jorge
  */
-public class Word extends curso {
-
+public class classe {
     
 }
