@@ -9,6 +9,9 @@ package upskill.upskilljava;
  *
  * @author Utilizador
  */
-public class CursoDeMatlabAvançado {
+public class CursoDeMatlabAvançado extends curso {
     
+    public Basic (String n, int num){
+        super(n, num);
+    }
 }
