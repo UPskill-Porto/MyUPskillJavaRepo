@@ -7,11 +7,12 @@ package upskill.upskilljava;
 
 /**
  *
- * @author Utilizador
+ * @author Vicious
  */
-public class CursoDeMatlabAvançado extends curso {
-    
-    public Basic (String n, int num){
+public class CursoAplicacaoMetodologiasAgeis extends curso{
+
+    public CursoAplicacaoMetodologiasAgeis(String n, int num) {
         super(n, num);
     }
+    
 }
