@@ -27,11 +27,7 @@ public class curso {
     }
 
     private int DefNumFormandos(int num){
-<<<<<<< HEAD
         if (num < 0)
-=======
-        if (num<0) 
->>>>>>> b47d9ac04cc0b08c17bf2cdbe020351f3eef606a
             return 0;
         else
             return num;
