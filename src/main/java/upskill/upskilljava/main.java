@@ -1,4 +1,4 @@
-g/*
+/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -22,25 +22,27 @@ public class main {
         String Grupos[][] = {
             {  
                 "André Filipe Oliveira Aguiar",
-                "Ana Batista Pereira",
-                "Coloque aqui o seu nome", 
-                "Coloque aqui o seu nome", 
+                "Diana Pereira",
+                "João Iglesias",
+                "Helder Ferreira",
+                "João Raposo",
+
             }, 
             {  
                 "José Fonseca",
+                "Daniel Junior", 
                 "Paulo Lima",
                 "Vania Figueira",
-                "Daniel Junior", 
             },
             {  
-                "Coloque aqui o seu nome",
+                "Diana Ferreira Matos",
                 "Coloque aqui o seu nome", 
                 "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome", 
+                "Andrea Galambos", 
             },            
             {  
                 "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome",
+                "Marco Pereira",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },            
@@ -52,7 +54,7 @@ public class main {
             },            
             {  
                 "Bárbara Leston Bandeira",
-                "Coloque aqui o seu nome",
+                "Ana Batista Pereira",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
                 "Coloque aqui o seu nome", 
