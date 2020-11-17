@@ -46,7 +46,7 @@ public class main {
             },            
             {  
                 "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome",
+                "Bruno Filipe Feição Cardoso Barbosa",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },            
