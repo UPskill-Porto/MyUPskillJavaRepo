@@ -32,12 +32,7 @@ public class main {
                 "José Fonseca",
                 "Daniel Junior", 
                 "Paulo Lima",
-<<<<<<< HEAD
-                "Vania Figueira"
-=======
                 "Vania Figueira",
-
->>>>>>> 026a569ce6c8e65bb5f83a3da05a07eb5f5e51dc
             },
             {  
 	        "Diana Ferreira Matos",
