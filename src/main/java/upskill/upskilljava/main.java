@@ -28,9 +28,9 @@ public class main {
             }, 
             {  
                 "José Fonseca",
+                "Daniel Junior", 
                 "Paulo Lima",
                 "Vania Figueira",
-                "Daniel Junior", 
             },
             {  
                 "Coloque aqui o seu nome",
