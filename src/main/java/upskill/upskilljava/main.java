@@ -28,13 +28,17 @@ public class main {
             }, 
             {  
                 "José Fonseca",
+<<<<<<< HEAD
                 "Vânia Figueira",
+=======
+                "Daniel Junior",
+>>>>>>> 698df9a7748b9aff6ec6c57d6b37a34db9df7eb5
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },
             {  
-                "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome",
+                "Diana Ferreira Matos",
+                "Marco Pereira",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },            
