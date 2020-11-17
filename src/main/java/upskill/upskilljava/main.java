@@ -22,19 +22,27 @@ public class main {
         String Grupos[][] = {
             {  
                 "André Filipe Oliveira Aguiar",
-                "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome", 
+                "Diana Pereira",
+                "João Iglesias",
+                "Helder Ferreira",
+                "João Raposo",
+
             }, 
             {  
                 "José Fonseca",
-                "Daniel Junior",
-                "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome", 
+                "Daniel Junior", 
+                "Paulo Lima",
+                "Vania Figueira",
             },
             {  
                 "Diana Ferreira Matos",
+                "Coloque aqui o seu nome", 
                 "Coloque aqui o seu nome",
+                "Andrea Galambos", 
+            },            
+            {  
+                "Coloque aqui o seu nome",
+                "Marco Pereira",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },            
@@ -45,9 +53,10 @@ public class main {
                 "Coloque aqui o seu nome", 
             },            
             {  
+                "Bárbara Leston Bandeira",
+                "Ana Batista Pereira",
                 "Coloque aqui o seu nome",
-                "Bruno Filipe Feição Cardoso Barbosa",
-                "Coloque aqui o seu nome",
+                "Coloque aqui o seu nome", 
                 "Coloque aqui o seu nome", 
             },            
             {  
@@ -67,12 +76,6 @@ public class main {
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
-            },            
-            {  
-                "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome",
-                "Fernando Crista", 
             }
         };
         

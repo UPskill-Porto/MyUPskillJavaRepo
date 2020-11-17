@@ -5,13 +5,14 @@
  */
 package upskill.upskilljava;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
- * @author Utilizador
+ * @author prp
  */
-public class CursoDeMatlabAvançado extends curso {
+public class CursoWord extends curso {
+
     
-    public Basic (String n, int num){
-        super(n, num);
-    }
 }
