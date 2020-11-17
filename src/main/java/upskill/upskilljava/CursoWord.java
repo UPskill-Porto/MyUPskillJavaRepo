@@ -12,7 +12,7 @@ import java.util.List;
  *
  * @author prp
  */
-public class Word extends curso {
+public class CursoWord extends curso {
 
     
 }
