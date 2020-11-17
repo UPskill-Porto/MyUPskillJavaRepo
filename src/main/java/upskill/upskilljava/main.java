@@ -21,13 +21,13 @@ public class main {
     
         String Grupos[][] = {
             {  
-                "Ana Batista Pereira",
+                "André Filipe Oliveira Aguiar",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             }, 
             {  
-                "Coloque aqui o seu nome",
+                "José Fonseca",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
@@ -35,7 +35,6 @@ public class main {
             {  
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
-                "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },            
             {  
@@ -45,7 +44,6 @@ public class main {
                 "Coloque aqui o seu nome", 
             },            
             {  
-                "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
