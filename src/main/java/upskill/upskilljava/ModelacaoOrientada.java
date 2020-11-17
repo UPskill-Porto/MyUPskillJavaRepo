@@ -5,14 +5,15 @@
  */
 package upskill.upskilljava;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  *
- * @author prp
+ * @author Home
  */
-public class Word extends curso {
-
+public class ModelacaoOrientada extends curso{
     
+    
+        public Basic(String n, int num){
+            
+        super(n, num);
+    }
 }

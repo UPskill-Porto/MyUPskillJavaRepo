@@ -5,14 +5,14 @@
  */
 package upskill.upskilljava;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  *
- * @author prp
+ * @author user
  */
-public class Word extends curso {
-
-    
+public class CursoScrum extends curso{
+            
+    public CursoScrum(String n, int num) {
+        super(n, num);
+    }
+            
 }
