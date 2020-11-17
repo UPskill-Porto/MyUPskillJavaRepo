@@ -43,7 +43,7 @@ public class main {
             },
             {
                 "Diana Ferreira Matos",
-                "Coloque aqui o seu nome", 
+                "Bárbara Melo Bandeira",
                 "Coloque aqui o seu nome",
                 "Andrea Galambos"
             },            
