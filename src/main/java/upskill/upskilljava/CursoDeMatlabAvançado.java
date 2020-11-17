@@ -5,14 +5,10 @@
  */
 package upskill.upskilljava;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  *
- * @author prp
+ * @author Utilizador
  */
-public class Word extends curso {
-
+public class CursoDeMatlabAvançado {
     
 }
