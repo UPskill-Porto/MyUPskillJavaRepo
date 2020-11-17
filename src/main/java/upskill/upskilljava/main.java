@@ -28,11 +28,7 @@ public class main {
             }, 
             {  
                 "José Fonseca",
-<<<<<<< HEAD
-                "Marco Pereira",
-=======
                 "Daniel Junior",
->>>>>>> 524974f4acbb0f5814a58bdabf7dd951d33b1d06
                 "Coloque aqui o seu nome",
                 "Coloque aqui o seu nome", 
             },
